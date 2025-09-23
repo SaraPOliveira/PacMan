@@ -1,3 +1,5 @@
+![GitHub License](https://img.shields.io/github/license/SaraPOliveira/PacMan?style=for-the-badge)
+
 <h1>PacMan</h1>
 
 Projeto UC1 - Robô desviador de obstáculos.
@@ -9,4 +11,4 @@ Projeto UC1 - Robô desviador de obstáculos.
 - Nicolas Matheus 
 
 
-![GitHub License](https://img.shields.io/github/license/SaraPOliveira/PacMan?style=for-the-badge)
+
