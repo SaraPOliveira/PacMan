@@ -2,7 +2,7 @@
 
 <h1>PacMan</h1>
 
-Projeto UC1 - Robô desviador de obstáculos.
+Projeto UC2 - Robô desviador de obstáculos.
 
 ## Autores: 
 - Sara Pereira
