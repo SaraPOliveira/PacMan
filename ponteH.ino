@@ -1,5 +1,5 @@
 /**
-Robô desviaador de obstaculos
+Robô desviador de obstaculos
   @author Anna Julia Arcanjo - Nicolas Matheus - João Felipe - Sara Oliveira
 */
  
