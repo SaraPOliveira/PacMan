@@ -1,6 +1,7 @@
 /**
 Robô desviador de obstaculos (código 2)
   @author Anna Julia Arcanjo - Nicolas Matheus - João Felipe - Sara Oliveira
+  @version 1.0
 */
 
 #include <DistanceSensor.h>
